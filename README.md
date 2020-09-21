@@ -14,6 +14,6 @@ https://github.com/Ornella-KK/hangman-game.git
 https://ornella-kk.github.io/portfolio/
 ### License:
 https://github.com/Ornella-KK/portfolio/blob/master/LICENSE
-# Copyright 2020 Kankazi Kayitaba Ornella
+ Copyright 2020 Kankazi Kayitaba Ornella
 
 
