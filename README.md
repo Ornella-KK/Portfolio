@@ -8,11 +8,12 @@ Hangman game is a word guessing game made with javascript language.
 1. Install the hangman game
 2. Click play
 3. Follow the instructions
+## Link:
 https://github.com/Ornella-KK/hangman-game.git
 ### Link to Github page:
 https://ornella-kk.github.io/portfolio/
 ### License:
 https://github.com/Ornella-KK/portfolio/blob/master/LICENSE
-Copyright 2020 Kankazi Kayitaba Ornella
+# Copyright 2020 Kankazi Kayitaba Ornella
 
 
