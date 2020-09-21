@@ -9,7 +9,7 @@ Hangman game is a word guessing game made with javascript language.
 2. Click play
 3. Follow the instructions
 ###Link:
-
+https://github.com/Ornella-KK/hangman-game.git
 ###License:
 MIT
 Copyright 2020 Kankazi Kayitaba Ornella
